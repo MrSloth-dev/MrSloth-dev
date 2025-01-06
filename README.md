@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking the common core of 42 School, where we learn Shell Scripting, C, C++ and even more, in a unique project based and peer-to-peer learning.
 - 🛠️ Builder of Norminette.nvim, a linter for 42 students.
 - 🛠️ Builder of Switcheroo, a theme switcher for Neovim.
-- 🛠️ Builder of eZmux, a session creator and manager for Tmux.
+- 🛠️ Builder of Zmux, a session creator and manager for Tmux.
 - 📫 You can reach me on LinkedIn and e-mail. You can find these below.
 
  # Tools
